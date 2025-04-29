@@ -4,7 +4,8 @@ library(shiny)
 library(bslib)
 library(ggplot2)
 library(dplyr)
-library(here)
+# library(here)
+require(tidyr)
 
 # Get the data
 
@@ -18,9 +19,11 @@ extract_after_last_underscore <- function(x) {
 }
 
 # Load data
-data_dir <- file.path(here(), "East_High_Psych_Study", "Data")
-qualtrics_pre.df <- read.csv(file.path(data_dir, "Qualtrics_Pre_Clean.csv"))
-qualtrics_post.df <- read.csv(file.path(data_dir, "Qualtrics_Post_Clean.csv"))
+# data_dir <- file.path(here(), "East_High_Psych_Study", "Data")
+# qualtrics_pre.df <- read.csv(file.path(data_dir, "Qualtrics_Pre_Clean.csv"))
+# qualtrics_post.df <- read.csv(file.path(data_dir, "Qualtrics_Post_Clean.csv"))
+qualtrics_pre.df <- read.csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vToj6FFtDV_hhK_gA8dB92UrYJs-vXa9PuEKr1oyzs4vjVUTCGmfZIXjvqAJTOVPQ/pub?gid=299623981&single=true&output=csv")
+qualtrics_post.df <- read.csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vTvgpWiBSagN0Af1o5JhbJT58dCaRia-5LFWTeC6EhvISr0RHnjPiBEQWfjPzoTyg/pub?gid=550024776&single=true&output=csv")
 sciexpo_study.df <- merge(qualtrics_pre.df, qualtrics_post.df) %>% 
   tidyr::drop_na() %>% 
   filter(SSI_Performance_Pre != 0) %>% 
@@ -141,7 +144,7 @@ ui <- page_sidebar(
       label = "Sample Size:", 
       value = 50,
       min = 1, 
-      max = nrow(movies)
+      max = length(unique(sciexpo_study.df$student_id))
     )
   ),
   # Output: Show scatterplot
@@ -170,7 +173,6 @@ server <- function(input, output, session) {
                        dv_sd = ifelse(is.na(sd(value)), 0, sd(value)),
                        eb_min = dv_mean-dv_sd,
                        eb_max = dv_mean+dv_sd)
-    print(coucou)
     return(coucou)
     }
   ) 
