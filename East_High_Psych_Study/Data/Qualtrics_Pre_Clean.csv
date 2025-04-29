@@ -1,0 +1,21 @@
+Student_ID,ResponseId,Child_Age_Under_18,Likely_Scientist_Pre,Representation_Pre,Grade,AP,Minority,SSI_Performance_Pre,SSI_Competence_Pre,SSI_Recognition_Pre,SSI_Interest_Pre
+s1,R_7uSvadtZjOtc0FP,Yes,1,5,12th Grade (Senior),No,Yes,12,14,14,12
+s2,R_7OO6Ekyb0O0YMwO,No,4,5,11th Grade (Junior),Yes,No,5,5,5,15
+s3,R_12gErHyrM1RFBvj,Yes,3,3,11th Grade (Junior),Yes,Yes,0,0,0,0
+s4,R_15QjibSova8QG4P,Yes,2,4,10th Grade (Sophomore),No,No,14,13,11,11
+s5,R_7ONGu4fUOfcF04z,Yes,4,3,10th Grade (Sophomore),No,No,13,17,16,21
+s6,R_5FK5MJzpInYJcPf,Yes,4,5,10th Grade (Sophomore),No,Yes,13,14,11,14
+s7,R_5VPiHxBz1hYYNvH,Yes,1,4,10th Grade (Sophomore),No,No,12,18,17,23
+s8,R_1qvIIougvtpL5Gm,Yes,5,3,11th Grade (Junior),Yes,Yes,11,16,15,20
+s9,R_3E6Wpn6eZIbGjxI,No,4,2,10th Grade (Sophomore),Yes,No,0,0,0,0
+s10,R_5o6KrL2maaSYz3l,Yes,2,1,10th Grade (Sophomore),No,Yes,14,15,8,15
+s11,R_7uSvadtZjOtc0FP,Yes,5,2,12th Grade (Senior),No,Yes,10,18,9,12
+s12,R_7OO6Ekyb0O0YMwO,No,1,2,11th Grade (Junior),No,No,15,14,19,18
+s13,R_12gErHyrM1RFBvj,Yes,2,1,11th Grade (Junior),Yes,Yes,15,10,20,19
+s14,R_15QjibSova8QG4P,No,3,2,10th Grade (Sophomore),No,No,13,14,12,17
+s15,R_7ONGu4fUOfcF04z,Yes,4,1,10th Grade (Sophomore),No,Yes,12,13,14,20
+s16,R_5FK5MJzpInYJcPf,No,5,2,10th Grade (Sophomore),Yes,No,14,18,10,22
+s17,R_5VPiHxBz1hYYNvH,No,3,4,10th Grade (Sophomore),Yes,No,9,20,14,10
+s18,R_1qvIIougvtpL5Gm,No,5,3,11th Grade (Junior),Yes,Yes,14,12,15,12
+s19,R_3E6Wpn6eZIbGjxI,No,2,4,10th Grade (Sophomore),No,No,14,17,18,21
+s20,R_5o6KrL2maaSYz3l,Yes,1,4,10th Grade (Sophomore),No,Yes,13,10,17,11

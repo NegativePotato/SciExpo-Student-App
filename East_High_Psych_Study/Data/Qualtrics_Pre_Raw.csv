@@ -1,0 +1,167 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Child_Age_Under_18,Student_Name,Parent_Name,Date,Agree_to_Recording,Permission_Quoting,Student_Name,Date,Agree_to_Recording,Permission_Quote,Student_Name,Date,Agree_to_Recording,Permission_Quote,ID,SSI_1.P1,SSI_2.C1,SSI_3.R1,SSI_4.I1,SSI_6.I2,SSI_8.I3,SSI_9.P3,SSI_10.R2,SSI_11.C3,SSI_13.P4,SSI_14.R3,SSI_16.I5,SSI_18.R4,SSI_19.I6,SSI_20.C5,SSI_23.C,Likely_Scientist_Pre,Representation_Pre,Grade,AP,Minority,SC1_Pre,SC2_Pre,SC3_Pre,SC4_Pre
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Is your child under 18 years old?,Name of Student:,Name of Parent:,Date (format : yyyy/mm/dd) :,"I give my permission for my student to be recorded (audio only) while answering the questions from the researcher at the Science Expo.
+[Please enter your initials if you agree]","I give my permission for my student to be quoted directly in publications without their name.
+[Please enter your initials if you agree]",Name of Student:,Date (format : yyyy/mm/dd) :,I agree to be recorded (audio only) while I answer the questions from the researcher at the Science Expo. [Please enter your initials if you agree],"I give my permission to be quoted directly in publications without my name.
+
+[Please enter your initials if you agree]",Name of Student:,Date (format : yyyy/mm/dd) :,I agree to be recorded (audio only) while I answer the questions from the researcher at the Science Expo. [Please enter your initials if you agree],"I give my permission to be quoted directly in publications without my name.
+
+[Please enter your initials if you agree]",Please enter your Student ID,"Each item of this questionnaire is a statement that a person may either agree with or disagree with, there is no wrong or right answer. 
+
+For each item, indicate how much you agree or disagree with what the item says.
+
+Respond to each item as if it were the only item. That is, don't worry about being ""consistent"" in your responses. - I think I did well in science classes.","Each item of this questionnaire is a statement that a person may either agree with or disagree with, there is no wrong or right answer. 
+
+For each item, indicate how much you agree or disagree with what the item says.
+
+Respond to each item as if it were the only item. That is, don't worry about being ""consistent"" in your responses. - I think I am good at science.","Each item of this questionnaire is a statement that a person may either agree with or disagree with, there is no wrong or right answer. 
+
+For each item, indicate how much you agree or disagree with what the item says.
+
+Respond to each item as if it were the only item. That is, don't worry about being ""consistent"" in your responses. - I think myself as a science person.","Each item of this questionnaire is a statement that a person may either agree with or disagree with, there is no wrong or right answer. 
+
+For each item, indicate how much you agree or disagree with what the item says.
+
+Respond to each item as if it were the only item. That is, don't worry about being ""consistent"" in your responses. - I will learn more about science knowledge through a variety of sources.","Each item of this questionnaire is a statement that a person may either agree with or disagree with, there is no wrong or right answer. 
+
+For each item, indicate how much you agree or disagree with what the item says.
+
+Respond to each item as if it were the only item. That is, don't worry about being ""consistent"" in your responses. - I like to participate in various scientific activities.","Each item of this questionnaire is a statement that a person may either agree with or disagree with, there is no wrong or right answer. 
+
+For each item, indicate how much you agree or disagree with what the item says.
+
+Respond to each item as if it were the only item. That is, don't worry about being ""consistent"" in your responses. - I think the science knowledge taught in my classes is important in real world.","Each item of this questionnaire is a statement that a person may either agree with or disagree with, there is no wrong or right answer. 
+
+For each item, indicate how much you agree or disagree with what the item says.
+
+Respond to each item as if it were the only item. That is, don't worry about being ""consistent"" in your responses. - I am able to complete my science homework.","Each item of this questionnaire is a statement that a person may either agree with or disagree with, there is no wrong or right answer. 
+
+For each item, indicate how much you agree or disagree with what the item says.
+
+Respond to each item as if it were the only item. That is, don't worry about being ""consistent"" in your responses. - My classmates recognize me as a science person.","Each item of this questionnaire is a statement that a person may either agree with or disagree with, there is no wrong or right answer. 
+
+For each item, indicate how much you agree or disagree with what the item says.
+
+Respond to each item as if it were the only item. That is, don't worry about being ""consistent"" in your responses. - I am able to use science to explain the nature phenomena in daily life.","Each item of this questionnaire is a statement that a person may either agree with or disagree with, there is no wrong or right answer. 
+
+For each item, indicate how much you agree or disagree with what the item says.
+
+Respond to each item as if it were the only item. That is, don't worry about being ""consistent"" in your responses. - I am proficient in using tools and operating apparatus in experiments.","Each item of this questionnaire is a statement that a person may either agree with or disagree with, there is no wrong or right answer. 
+
+For each item, indicate how much you agree or disagree with what the item says.
+
+Respond to each item as if it were the only item. That is, don't worry about being ""consistent"" in your responses. - My science teachers recognize me as a science person.","Each item of this questionnaire is a statement that a person may either agree with or disagree with, there is no wrong or right answer. 
+
+For each item, indicate how much you agree or disagree with what the item says.
+
+Respond to each item as if it were the only item. That is, don't worry about being ""consistent"" in your responses. - I like to attend classes that are related to science.","Each item of this questionnaire is a statement that a person may either agree with or disagree with, there is no wrong or right answer. 
+
+For each item, indicate how much you agree or disagree with what the item says.
+
+Respond to each item as if it were the only item. That is, don't worry about being ""consistent"" in your responses. - My family and friends recognize me as a science person.","Each item of this questionnaire is a statement that a person may either agree with or disagree with, there is no wrong or right answer. 
+
+For each item, indicate how much you agree or disagree with what the item says.
+
+Respond to each item as if it were the only item. That is, don't worry about being ""consistent"" in your responses. - I am interested in careers that are related to science.","Each item of this questionnaire is a statement that a person may either agree with or disagree with, there is no wrong or right answer. 
+
+For each item, indicate how much you agree or disagree with what the item says.
+
+Respond to each item as if it were the only item. That is, don't worry about being ""consistent"" in your responses. - I believe I will do well in science.","Each item of this questionnaire is a statement that a person may either agree with or disagree with, there is no wrong or right answer. 
+
+For each item, indicate how much you agree or disagree with what the item says.
+
+Respond to each item as if it were the only item. That is, don't worry about being ""consistent"" in your responses. - I believe I can learn even the hardest parts of scientific knowledge if I try.",How likely do you think that someone like you could become a scientist?,How much do you see yourself represented in the scientific community?,In what grade are you currently?,Are your Currently enrolled in an AP science class?,"Are you a part of a group that has often been underrepresented, included but not limited to factors like your race, ethnicity, religion, gender, sexual orientation, income, ability, where you were born, or being the first in your family to attend college?",SSI_Performance,SSI_Competence,SSI_Recognition,SSI_Interest
+"{""ImportId"":""startDate"",""timeZone"":""America/Chicago""}","{""ImportId"":""endDate"",""timeZone"":""America/Chicago""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Chicago""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID14""}","{""ImportId"":""QID26_TEXT""}","{""ImportId"":""QID30_TEXT""}","{""ImportId"":""QID25_TEXT""}","{""ImportId"":""QID28_TEXT""}","{""ImportId"":""QID29_TEXT""}","{""ImportId"":""QID21_TEXT""}","{""ImportId"":""QID22_TEXT""}","{""ImportId"":""QID23_TEXT""}","{""ImportId"":""QID24_TEXT""}","{""ImportId"":""QID1320116744_TEXT""}","{""ImportId"":""QID1320116745_TEXT""}","{""ImportId"":""QID1320116746_TEXT""}","{""ImportId"":""QID1320116747_TEXT""}","{""ImportId"":""QID2_TEXT""}","{""ImportId"":""QID1_1""}","{""ImportId"":""QID1_2""}","{""ImportId"":""QID1_3""}","{""ImportId"":""QID1_4""}","{""ImportId"":""QID1_5""}","{""ImportId"":""QID1_6""}","{""ImportId"":""QID1_7""}","{""ImportId"":""QID1_8""}","{""ImportId"":""QID1_9""}","{""ImportId"":""QID1_10""}","{""ImportId"":""QID1_11""}","{""ImportId"":""QID1_12""}","{""ImportId"":""QID1_13""}","{""ImportId"":""QID1_14""}","{""ImportId"":""QID1_15""}","{""ImportId"":""QID1_16""}","{""ImportId"":""QID7""}","{""ImportId"":""QID3""}","{""ImportId"":""QID10""}","{""ImportId"":""QID11""}","{""ImportId"":""QID4""}","{""ImportId"":""SC_0dYZZ3DiQj1PuZg""}","{""ImportId"":""SC_2hKSzrHKmOxK0v4""}","{""ImportId"":""SC_2o7Um5yizYVxvh4""}","{""ImportId"":""SC_71UXqnW1cbZrzAa""}"
+8/19/24 14:03,8/19/24 14:03,Survey Preview,,100,41,TRUE,8/19/24 14:03,R_7P5LT0qhuh8r08q,,,,,43.0371,-89.3932,preview,EN,,,,,,,,,,,,,,,242,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+9/27/24 15:00,9/27/24 15:02,Survey Preview,,100,154,TRUE,9/27/24 15:02,R_70uzKTkFwnUSgN3,,,,,43.0812,-89.3845,preview,EN,Yes,,,,,,,,,,,,,,232,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/2/24 17:36,10/2/24 17:37,Survey Preview,,100,89,TRUE,10/2/24 17:37,R_7uSvadtZjOtc0FP,,,,,43.064,-89.3965,preview,ES-ES,Yes,oui oui,lalala,today,OO,OO,Oui oui,today,OO,OO,,,,,ewfafsdx,Strongly agree,Strongly agree,Somewhat agree,Neither agree nor disagree,Somewhat disagree,Strongly disagree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Somewhat disagree,Somewhat disagree,Somewhat disagree,Strongly agree,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,Extremely unlikely,Not at all represented,12th Grade (Senior),No,Yes,12,14,14,12
+10/2/24 17:45,10/2/24 17:46,Survey Preview,,100,67,TRUE,10/2/24 17:47,R_7OO6Ekyb0O0YMwO,,,,,43.064,-89.3965,preview,EN,No,,,,,,,,,,Ouioui,12/12/24,OO,OO,fffff,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,,,,,,,,,,,Extremely unlikely,A little bit represented,11th Grade (Junior),Yes,No,5,5,5,15
+10/2/24 18:04,10/2/24 18:07,IP Address,174.192.72.42,100,183,TRUE,10/2/24 18:08,R_12gErHyrM1RFBvj,,,,,42.1597,-88.1414,anonymous,EN,Yes,Nicky Vest,Nick Vest,10/1/24,nv,nv,Nickyyyy,1/1/50,Nv,Mv,,,,,Hiiii,,,,,,,,,,,,,,,,,Neither likely nor unlikely,Somewhat represented,11th Grade (Junior),Yes,Yes,0,0,0,0
+10/2/24 19:16,10/2/24 19:18,IP Address,147.219.171.102,100,109,TRUE,10/2/24 19:18,R_7D6NPWyIGWpKrmb,,,,,43.0334,-89.4512,anonymous,EN,Yes,dooncan,carolyn,1/1/24,yes,yes,dooncan,1/1/24,yes,yes,,,,,9999999999,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 11:03,10/8/24 13:15,IP Address,172.220.75.178,100,7897,TRUE,10/8/24 13:15,R_15QjibSova8QG4P,,,,,43.1228,-89.3841,anonymous,EN,Yes,Margaret “Maisie” McClure ,Seth McClure,10/8/24,SM,SM,Margaret “Maisie” McClure ,10/8/24,MM,MM,,,,,141747,Somewhat agree,Somewhat agree,Somewhat disagree,Somewhat agree,Somewhat disagree,Somewhat disagree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Somewhat disagree,Neither agree nor disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,Somewhat likely,Somewhat represented,10th Grade (Sophomore),No,No,14,13,11,11
+10/8/24 11:16,10/8/24 19:37,IP Address,99.111.117.73,100,30017,TRUE,10/8/24 19:37,R_7ONGu4fUOfcF04z,,,,,43.1228,-89.3841,anonymous,EN,Yes,Sawyer Retelle,Katie Dean,10/8/24,kd,kd,Sawyer Retelle,10/8/24,sr,sr,,,,,141730,Somewhat agree,Somewhat agree,Neither agree nor disagree,Strongly agree,Strongly agree,Neither agree nor disagree,Somewhat agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Somewhat likely,Mostly represented,10th Grade (Sophomore),No,No,13,17,16,21
+10/8/24 10:43,10/8/24 21:14,IP Address,108.233.153.180,100,37867,TRUE,10/8/24 21:14,R_5FK5MJzpInYJcPf,,,,,43.1228,-89.3841,anonymous,EN,Yes,Abigail Jones,Elysha Jone,10/8/24,EJ,EJ,Abigail Jones,10/8/24,AJ,AJ,,,,,148435,Somewhat agree,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat agree,Strongly disagree,Strongly agree,Neither agree nor disagree,Strongly disagree,Somewhat agree,Somewhat agree,Somewhat agree,Strongly disagree,Strongly disagree,Somewhat agree,Strongly agree,Somewhat likely,Mostly represented,10th Grade (Sophomore),No,Yes,13,14,11,14
+10/8/24 20:08,10/8/24 21:25,IP Address,76.235.102.228,100,4629,TRUE,10/8/24 21:25,R_5VPiHxBz1hYYNvH,,,,,43.1228,-89.3841,anonymous,EN,Yes,Henry Kysely,Tracy Kysely,10/8/24,tk,tk,Henry Kysely,10/8/24,hk,hk,,,,,141784,Somewhat agree,Strongly agree,Somewhat agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Somewhat agree,Somewhat agree,Neither agree nor disagree,Strongly agree,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,Strongly agree,Extremely likely,Somewhat represented,10th Grade (Sophomore),No,No,12,18,17,23
+10/9/24 13:45,10/9/24 13:50,IP Address,47.12.97.221,100,332,TRUE,10/9/24 13:50,R_1qvIIougvtpL5Gm,,,,,43.0628,-89.3171,anonymous,EN,Yes,Bethany Provost,Marcy Provost,10/8/24,MP,MP,Bethany Provost,10/8/24,BP,Bp,,,,,137061,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat likely,Somewhat represented,11th Grade (Junior),Yes,Yes,11,16,15,20
+10/2/24 17:34,10/2/24 17:51,IP Address,72.33.0.163,72,1020,FALSE,10/9/24 17:51,R_1ltXjMP818GpuN7,,,,,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/2/24 18:10,10/2/24 18:10,IP Address,174.192.72.42,8,29,FALSE,10/9/24 18:10,R_3vrdwYLmbwSkuYh,,,,,,,anonymous,ES-ES,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/2/24 19:18,10/2/24 19:18,IP Address,147.219.171.102,54,11,FALSE,10/9/24 19:18,R_6imsXLYVS4A2P8B,,,,,,,anonymous,EN,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/2/24 19:12,10/2/24 19:25,IP Address,147.219.171.102,54,780,FALSE,10/9/24 19:25,R_18UtqjdQcj8ymEb,,,,,,,anonymous,EN,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/10/24 07:24,10/10/24 07:27,IP Address,97.87.2.78,100,197,TRUE,10/10/24 07:27,R_3E6Wpn6eZIbGjxI,,,,,43.1228,-89.3841,anonymous,EN,No,,,,,,,,,,Briana redzepi ,10/10/24,Jr,Jr,143086,,,,,,,,,,,,,,,,,,,10th Grade (Sophomore),Yes,No,0,0,0,0
+10/8/24 20:45,10/11/24 16:04,IP Address,45.21.63.206,100,242327,TRUE,10/11/24 16:04,R_5o6KrL2maaSYz3l,,,,,43.1228,-89.3841,anonymous,EN,Yes,Eliana Zimbauer,Renee Bauer,10/30/08,RB,RB,Eliana Zimbauer,10/11/24,EZ,EZ,,,,,142559,Strongly agree,Somewhat agree,Somewhat disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Strongly agree,Somewhat disagree,Neither agree nor disagree,Somewhat agree,Somewhat disagree,Somewhat disagree,Somewhat disagree,Somewhat disagree,Somewhat agree,Somewhat agree,Extremely likely,A little bit represented,10th Grade (Sophomore),No,Yes,14,15,8,15
+10/7/24 12:20,10/7/24 12:20,IP Address,199.197.84.221,7,17,FALSE,10/14/24 12:20,R_6RgDW6J0uJcDFhq,,,,,,,anonymous,EN,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/7/24 11:48,10/7/24 12:25,IP Address,199.197.78.206,7,2223,FALSE,10/14/24 12:25,R_5P1S3tbzkFUgVyh,,,,,,,anonymous,EN,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 09:26,10/8/24 09:27,IP Address,199.197.106.247,7,66,FALSE,10/15/24 09:27,R_3otAf45S4r1Ik1A,,,,,,,anonymous,EN,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 10:09,10/8/24 10:10,IP Address,144.92.108.12,33,78,FALSE,10/15/24 10:10,R_1Crd1YsS7oA50Mm,,,,,,,anonymous,EN,Yes,Zachary Johnson,Tricia Johnson,10/24/24,TJ,TJ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 10:12,10/8/24 10:13,IP Address,68.112.185.21,33,55,FALSE,10/15/24 10:13,R_5fK9DortwUvTflF,,,,,,,anonymous,EN,Yes,Cora Holden,Marlena Holden,10/8/24,MGH,MGH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 10:11,10/8/24 10:19,IP Address,47.225.246.26,33,442,FALSE,10/15/24 10:19,R_3HwcAaGu6kxAU1t,,,,,,,anonymous,EN,Yes,Nolan Moore,Sarah Deadman,10/8/24,SD,SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 10:19,10/8/24 10:20,IP Address,166.181.88.156,30,82,FALSE,10/15/24 10:21,R_6fZuAN6Rcf9MwqP,,,,,,,anonymous,EN,Yes,Ethan Kersten ,Valerie Peterson ,10/9/24,Vp ,Vp ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 10:43,10/8/24 10:47,IP Address,35.148.65.98,78,226,FALSE,10/15/24 10:47,R_1eR1dhHbv1WT7z9,,,,,,,anonymous,EN,Yes,XANDRIA Robinson,Shandrica Robinson,10/8/24,SR,SR,Xandria Robi son,10/8/24,XR,XR,,,,,135874,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 10:47,10/8/24 10:48,IP Address,128.104.112.238,7,44,FALSE,10/15/24 10:48,R_3j8P4g7nISSemSf,,,,,,,anonymous,EN,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 10:46,10/8/24 10:49,IP Address,141.126.136.228,33,143,FALSE,10/15/24 10:49,R_7s7olk0QHqxTX1N,,,,,,,anonymous,EN,Yes,Sophie Ipsen,Pernille Ipsen,9/8/24,PI,PI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 10:49,10/8/24 10:50,IP Address,104.28.104.61,33,48,FALSE,10/15/24 10:50,R_7jch00BhVLVpLo8,,,,,,,anonymous,EN,Yes,Flynn O’Brion,Claire Lind,10/8/24,CL,CL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 10:50,10/8/24 10:51,IP Address,199.197.107.184,7,47,FALSE,10/15/24 10:51,R_1k1wEDWia28NZA5,,,,,,,anonymous,EN,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 10:49,10/8/24 10:51,IP Address,144.92.87.40,33,117,FALSE,10/15/24 10:51,R_634jncDEDPt9SQ5,,,,,,,anonymous,EN,Yes,Aubrey Mani,Erin Mani,10/8/24,elm,elm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 10:51,10/8/24 10:51,IP Address,141.126.139.69,30,45,FALSE,10/15/24 10:51,R_1ffczOqUZv3Qa4Q,,,,,,,anonymous,EN,Yes,Liam Bailey,Melissa Bailey,10/8/24,MCB,MCB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 10:56,10/8/24 10:56,IP Address,141.126.143.78,7,5,FALSE,10/15/24 10:56,R_5wPr6Ujgf9N3uHn,,,,,,,anonymous,EN,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 10:55,10/8/24 10:57,IP Address,68.113.250.135,33,130,FALSE,10/15/24 10:57,R_1tYghOUU7WSGlzP,,,,,,,anonymous,EN,Yes,Sylvia Glasner,Nicole Perna,10/8/24,NTP,NTP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 11:06,10/8/24 11:10,IP Address,199.197.85.220,56,256,FALSE,10/15/24 11:10,R_7i3RPCxOkrOtS3D,,,,,,,anonymous,EN,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 11:08,10/8/24 11:11,IP Address,144.92.231.22,7,147,FALSE,10/15/24 11:11,R_30pjSdfbRT6xshH,,,,,,,anonymous,EN,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 11:11,10/8/24 11:13,IP Address,35.148.122.14,33,91,FALSE,10/15/24 11:13,R_36fiVqDBtAxL7FE,,,,,,,anonymous,EN,Yes,Melynda opio,Adriana opio,10/8/24,Ao,Ao,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 11:13,10/8/24 11:13,IP Address,72.33.2.239,7,7,FALSE,10/15/24 11:13,R_6IRzE5N5LckTsbL,,,,,,,anonymous,EN,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 11:18,10/8/24 11:19,IP Address,144.92.62.134,33,60,FALSE,10/15/24 11:19,R_3CwYsKDu3GoHzOd,,,,,,,anonymous,EN,Yes,Iris Luckey Winters,Alyssa Luckey Winters,10/8/24,alw,alw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 11:19,10/8/24 11:20,IP Address,47.34.59.94,7,7,FALSE,10/15/24 11:20,R_1PwtTzZKfgHFMvD,,,,,,,anonymous,EN,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 10:49,10/8/24 11:31,IP Address,199.197.82.224,33,2544,FALSE,10/15/24 11:32,R_5LZIaBjvhIU55xe,,,,,,,anonymous,EN,Yes,Armine Kashian,Janice Kashian,10/8/24,JK,JK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 11:42,10/8/24 11:43,IP Address,144.92.154.84,30,55,FALSE,10/15/24 11:43,R_16nApfHlYQEtiOv,,,,,,,anonymous,EN,Yes,Ethan Holiday ,Jody Epstein ,10/8/24,Je,Je,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 11:44,10/8/24 11:47,IP Address,107.122.173.12,33,222,FALSE,10/15/24 11:47,R_7Gg4nRsvrRE7UBH,,,,,,,anonymous,EN,Yes,Seymour Leplae,Mary Jo Walters,10/10/25,MJW,MJW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 11:56,10/8/24 11:58,IP Address,108.147.197.18,30,103,FALSE,10/15/24 11:58,R_7X0QuqErO6kWbc4,,,,,,,anonymous,EN,Yes,Mason Clark ,Jacob Clark ,10/8/24,JC,JC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 12:03,10/8/24 12:05,IP Address,174.246.129.252,33,98,FALSE,10/15/24 12:05,R_6YJQ5B4c5CXwdVq,,,,,,,anonymous,EN,Yes,Kristin Burki,Kristin Burki,10/8/24,KB,KB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 12:07,10/8/24 12:09,IP Address,174.194.98.12,33,110,FALSE,10/15/24 12:09,R_6ts69hCUwDSPQgE,,,,,,,anonymous,EN,Yes,Elijah Jones,Alexis Haskin,10/8/24,AH,AH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 12:10,10/8/24 12:11,IP Address,104.28.103.62,33,86,FALSE,10/15/24 12:11,R_3DeIdomdymv78m9,,,,,,,anonymous,EN,Yes,Brynn Hinterthuer,Carrie Hinterthuer,10/8/24,CH,CH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 12:10,10/8/24 12:14,IP Address,71.13.175.3,78,255,FALSE,10/15/24 12:14,R_5r2rL67OSXYfdsJ,,,,,,,anonymous,EN,Yes,Kaelan Deuchars ,Leslie Deuchars ,10/8/24,LD,LD,Kaelan Deuchars ,10/8/24,KD,KD,,,,,142393,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 12:29,10/8/24 12:30,IP Address,12.75.40.63,33,57,FALSE,10/15/24 12:30,R_3engxjunnzra45b,,,,,,,anonymous,EN,Yes,Jack Viola,Leah Viola,10/8/24,Lv,Lv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 12:32,10/8/24 12:33,IP Address,172.59.98.194,7,15,FALSE,10/15/24 12:33,R_7s0aYzocHxRl509,,,,,,,anonymous,EN,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 12:48,10/8/24 12:49,IP Address,72.33.2.144,33,66,FALSE,10/15/24 12:49,R_1HpGnssuzGdWbnL,,,,,,,anonymous,EN,Yes,Sena Amoah,Keisha Lindsay,10/8/24,KL,KL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 12:53,10/8/24 12:55,IP Address,47.12.97.118,33,109,FALSE,10/15/24 12:55,R_7QcR76ZsGR2RDQ5,,,,,,,anonymous,EN,Yes,Zach Stehle,Angela Stehle,10/8/24,AS,AS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 12:58,10/8/24 13:02,IP Address,47.225.234.110,78,261,FALSE,10/15/24 13:02,R_3t2IfuIXduyzfQu,,,,,,,anonymous,EN,Yes,Milo Divine-Scott,Aubrie Divine-Scott,10/8/24,ADS,ADS,Milo Divine-Scott,10/8/24,ads,ads,,,,,142567,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 13:02,10/8/24 13:03,IP Address,172.220.1.221,33,54,FALSE,10/15/24 13:03,R_5IbfwSvseg0zKQ0,,,,,,,anonymous,EN,Yes,Aidan Waller ,Erin DeVos ,10/8/24,ED,ED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 12:18,10/8/24 13:14,IP Address,24.197.204.150,33,3367,FALSE,10/15/24 13:14,R_6RkxMfrNLcWAWqt,,,,,,,anonymous,EN,Yes,Aidan Waller,Jason Waller,10/8/24,JMW,JMW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 13:57,10/8/24 14:00,IP Address,205.213.104.120,7,173,FALSE,10/15/24 14:00,R_34GBW9RquFZqxsZ,,,,,,,anonymous,EN,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 12:44,10/8/24 14:45,IP Address,199.197.74.123,4,7237,FALSE,10/15/24 14:45,R_7wIFSEHghe1gSaZ,,,,,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 15:41,10/8/24 15:43,IP Address,166.199.115.25,33,132,FALSE,10/15/24 15:43,R_5FM1KcphAiq4AHL,,,,,,,anonymous,EN,Yes,Tolàn Flores,Shadayra Kilfoy-Flores,10/8/24,Sk,Sk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 16:09,10/8/24 16:10,IP Address,174.194.99.3,33,58,FALSE,10/15/24 16:10,R_1ay1jRVsZ4MBGud,,,,,,,anonymous,EN,Yes,Emma Wayman ,Maria Segura ,10/8/24,Ms,Ms,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 16:57,10/8/24 16:57,IP Address,172.8.204.13,7,9,FALSE,10/15/24 16:57,R_7Pi4IfsI6h4DxCI,,,,,,,anonymous,EN,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 17:00,10/8/24 17:01,IP Address,97.95.94.39,33,70,FALSE,10/15/24 17:01,R_5zVKTHGo8Mj9ZId,,,,,,,anonymous,EN,Yes,Lydia Seys,Amanda Crim,10/8/24,agc,agc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 17:09,10/8/24 17:10,IP Address,76.235.98.74,33,58,FALSE,10/15/24 17:10,R_3P7QeKqSSoqvHGz,,,,,,,anonymous,EN,Yes,Maxine Loritz,Ben Loritz,10/8/24,BL,BL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 17:32,10/8/24 17:33,IP Address,76.235.99.219,4,52,FALSE,10/15/24 17:33,R_1PaF50J1lpu56Zm,,,,,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 17:38,10/8/24 17:41,IP Address,162.199.148.230,33,148,FALSE,10/15/24 17:41,R_7XacYFkqQbReHL3,,,,,,,anonymous,EN,Yes,Olivia Erdman,Jennifer Erdman,10/8/24,JE,JE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 17:52,10/8/24 17:53,IP Address,68.113.148.15,7,26,FALSE,10/15/24 17:53,R_3s4fhZZvd2hbRap,,,,,,,anonymous,EN,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 14:59,10/8/24 18:00,IP Address,47.12.110.214,33,10841,FALSE,10/15/24 18:00,R_1F2OEfZrfIyVFiI,,,,,,,anonymous,EN,Yes,Eva Bixler,Luis Bixler,10/8/24,Lb,Lb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 19:46,10/8/24 19:49,IP Address,97.87.1.24,33,147,FALSE,10/15/24 19:49,R_60JIvIKTVnGiF5U,,,,,,,anonymous,EN,Yes,Josephine Mueller,Torrie Kopp Mueller,10/8/24,TKM,TKM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 19:57,10/8/24 19:58,IP Address,172.93.207.239,7,8,FALSE,10/15/24 19:58,R_5qwb8bM30WAYBxy,,,,,,,anonymous,EN,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 20:40,10/8/24 20:41,IP Address,47.41.139.109,7,8,FALSE,10/15/24 20:41,R_1sZTh7LTkQP6WJQ,,,,,,,anonymous,EN,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 20:48,10/8/24 20:52,IP Address,12.75.46.12,30,228,FALSE,10/15/24 20:52,R_1ypkGUQnXJkxu1p,,,,,,,anonymous,EN,Yes,Rheya Schrank,Carrie Schrank,10/8/24,CS,CS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 21:08,10/8/24 21:09,IP Address,166.181.80.86,33,82,FALSE,10/15/24 21:09,R_3M9knh41NQw6x4Y,,,,,,,anonymous,EN,Yes,Emily Olm,Rebecca Olm,10/8/24,RO,RO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 12:29,10/8/24 21:59,IP Address,75.6.183.120,33,34189,FALSE,10/15/24 21:59,R_6Dvi2RM9HrxMzWa,,,,,,,anonymous,EN,Yes,Ellis Duffy,Margo Duffy,10/8/24,Md,Md,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 10:39,10/8/24 22:59,IP Address,134.215.119.32,33,44400,FALSE,10/15/24 22:59,R_11gSWO4CbUogqfv,,,,,,,anonymous,EN,Yes,Sienna,JBaldwin,10/8/24,jb,jb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/9/24 07:07,10/9/24 07:09,IP Address,99.111.119.80,7,138,FALSE,10/16/24 07:09,R_6fcN02Shsbrmrtd,,,,,,,anonymous,EN,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/9/24 07:19,10/9/24 07:19,IP Address,141.126.136.228,33,45,FALSE,10/16/24 07:20,R_1cooguoP0GGSNPv,,,,,,,anonymous,EN,Yes,Sophie Ipsen,Steve Kantrowitz,10/9/24,SK,SK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/9/24 07:45,10/9/24 07:47,IP Address,99.62.234.54,33,88,FALSE,10/16/24 07:47,R_55Zd0VuJCMLUYgz,,,,,,,anonymous,EN,Yes,Ari Meyer,Joy Zotalis ,10/9/24,JZ,JZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 11:52,10/9/24 08:55,IP Address,172.220.75.2,30,75798,FALSE,10/16/24 08:55,R_1fTVmpz5OZa67uJ,,,,,,,anonymous,EN,Yes,Fatoumatta D Jarra,Jarje Bah,10/9/24,JB,JB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/9/24 09:11,10/9/24 09:12,IP Address,166.182.84.129,33,90,FALSE,10/16/24 09:12,R_1wXpAAcFSViPQKR,,,,,,,anonymous,EN,Yes,CameronMoses Swan,Amelia Baxter,10/9/24,AB,AB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/9/24 10:01,10/9/24 10:01,IP Address,174.192.128.231,7,8,FALSE,10/16/24 10:01,R_1zcNsmxfInSiQya,,,,,,,anonymous,EN,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/9/24 10:34,10/9/24 10:35,IP Address,99.62.234.54,33,86,FALSE,10/16/24 10:35,R_7xjJ4R9QQJtizTj,,,,,,,anonymous,EN,Yes,Ari Meyer,Steve Meyer,10/9/24,SM,SM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/9/24 10:59,10/9/24 10:59,IP Address,12.75.40.88,7,8,FALSE,10/16/24 10:59,R_50p9w5RMxMoc5Uv,,,,,,,anonymous,EN,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/9/24 12:01,10/9/24 12:02,IP Address,128.104.153.129,56,32,FALSE,10/16/24 12:02,R_7hKVf4xx2TEvrPz,,,,,,,anonymous,EN,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/9/24 12:21,10/9/24 12:23,IP Address,72.33.0.100,33,87,FALSE,10/16/24 12:23,R_3frZXeror4lHNCk,,,,,,,anonymous,EN,Yes,Carina Berge,Megan Berge,10/9/24,MEHB,MEHB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/9/24 16:20,10/9/24 16:23,IP Address,99.111.117.75,7,192,FALSE,10/16/24 16:24,R_1k9KVKokVOmCtsB,,,,,,,anonymous,EN,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/9/24 16:31,10/9/24 16:32,IP Address,99.111.117.75,33,68,FALSE,10/16/24 16:32,R_3LdpRjMNv5gk2UU,,,,,,,anonymous,EN,Yes,Kaler Moline,Heather Moline,10/9/23,HLM,HLM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 22:58,10/9/24 17:54,IP Address,76.255.18.21,30,68176,FALSE,10/16/24 17:54,R_6I5XDnIWBXC3Njp,,,,,,,anonymous,ES-ES,Yes,Brayan Tecuatl-Cuenca,María Cuenca,8/10/24,MC,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/9/24 18:52,10/9/24 18:54,IP Address,166.199.115.3,33,79,FALSE,10/16/24 18:54,R_7fpneZz6eP4vl9E,,,,,,,anonymous,EN,Yes,Jose M Jaramillo Romero ,Gricelia Romero ,10/9/24,GR,GR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/9/24 21:12,10/9/24 21:14,IP Address,172.220.81.199,33,65,FALSE,10/16/24 21:14,R_5EzQ1HeKSf2k3Bq,,,,,,,anonymous,EN,Yes,Milena Schuknecht,Katherine O’Callaghan,10/9/24,KO,KO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/8/24 14:04,10/10/24 07:44,IP Address,35.148.65.203,33,149963,FALSE,10/17/24 07:44,R_5fkT1VqrPRWmOoR,,,,,,,anonymous,EN,Yes,Alexander Foss,Elizabeth Kern,10/8/24,eak,eak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/9/24 13:36,10/10/24 14:33,IP Address,75.134.20.173,78,89819,FALSE,10/17/24 14:33,R_5wyKorcQpyfR4wQ,,,,,,,anonymous,EN,No,,,,,,,,,,DJuan Ellis,10/8/24,D.E.,D.E.,143129,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/10/24 08:49,10/10/24 15:14,IP Address,128.104.35.244,33,23116,FALSE,10/17/24 15:14,R_3Bmkk8b80SXS6et,,,,,,,anonymous,EN,Yes,Olivia Erdman,Ben Erdman,10/10/24,BKE,BKE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/10/24 12:33,10/10/24 16:00,IP Address,45.21.63.206,4,12380,FALSE,10/17/24 16:00,R_66Vw9qqyqdEAsZr,,,,,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/11/24 14:05,10/11/24 14:06,IP Address,47.49.41.122,7,36,FALSE,10/18/24 14:06,R_3zou0KamtVPR4C5,,,,,,,anonymous,EN,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/11/24 14:50,10/11/24 14:50,IP Address,166.181.84.43,7,8,FALSE,10/18/24 14:50,R_7JmCNrBaeXI9OrE,,,,,,,anonymous,EN,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+10/11/24 14:59,10/11/24 14:59,IP Address,172.220.71.76,7,8,FALSE,10/18/24 14:59,R_7IvjnzlbLtyHgrH,,,,,,,anonymous,EN,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
